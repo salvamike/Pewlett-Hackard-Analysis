@@ -58,7 +58,7 @@ Provide high-level responses to the following questions, then provide two additi
 
 >> No, we have 1,940 employees who are eligible to participate in a mentorship program.
 
-![Question2image](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/main/images/Question2image.jpg)
+![Question2image](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/main/Question2image.jpg)
 
 
 ***Additional Insights***
