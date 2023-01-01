@@ -20,7 +20,7 @@
   6. [titles.csv](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
   
 ### Flowchart ###
-![Flowchart](EmployeeDB.jpg)
+![EmployeeDB](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png)
   
   A first step in building a database is to map out the flow or relationship between all your data files. In this case there are 6 CSV files that we will use to find patterns to answer our two questions. The relationships are identified by the lines connecting each of the tables. Those with a key are indicative of primary keys, meaning they are unique identifiers for that table. Those column names that are bolded are foreign keys, meaning they are primary key in another table.
 
@@ -29,9 +29,12 @@
 * According to the unique_titles data, there are 90,398 employees who were born between 1952 and 1955 who are about to retire.
 * According to the mentorship_eligiblty data, there are 1,940 employees who were born between January 1965 and December 1965 who are eligible to participate in a mentorship program
 * The below screenshot shows that the highest number of retirees is those with the title "Staff" and the lowest is "Assistant Engineer"
-![Highest Number of Retirees](images/1.jpg)
+
+![1](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/main/1.png)
+
 * The below screenshot groups the number of employees (divided by title) who are eligible for the mentorship program.
-![groups the number of employees (divided by title)](images/2.jpg)
+
+![2](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/main/2.png)
 
 ***IN ADDITION TO THE 4 MAJOR POINTS ABOVE I WOULD LIKE TO ADD 2 ADDITIONAL FINDINGS***
 
@@ -61,4 +64,4 @@ Provide high-level responses to the following questions, then provide two additi
 > 64% of employees holding senior titles are reaching retirement age. Therefore, the mentorship program will be a helpful way to transition new employees into Pewlett Hackard. Current data shows that 1940 employees who are retirement_ready employees are available to mentor the next generation of pewlett hackard employees. In sum, there is not a 1 to 1 ratio for the mentorship program, however there is a large enough buffer that it will be helpful.
 
 > Another potential actionable insight is to mentor more than one new employee per eligile mentorship trainer. This could reduce the stress of not enough trainers and help teach the new employees team work and company culture.
-![Final Insight](images/3.jpg)	
+![3](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/main/3.png)
