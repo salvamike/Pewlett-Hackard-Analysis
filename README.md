@@ -57,7 +57,9 @@ Provide high-level responses to the following questions, then provide two additi
 > 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 >> No, we have 1,940 employees who are eligible to participate in a mentorship program.
-![Screenshot](images/Question2image.jpg)
+
+![Question2image](https://github.com/salvamike/Pewlett-Hackard-Analysis/blob/images/Question2image.jpg)
+
 
 ***Additional Insights***
 
